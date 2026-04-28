@@ -3,7 +3,7 @@
 
 ## About Our Work
 
-Update: 2026/03/07: We have created a repository for the paper titled *From Exposure to Internalization: Dual-Stream Calibration for In-context Clinical Reasoning*, which has been submitted to the ==*TKDE 2026*==. In this repository, we offer the preprocessing scripts and algorithm files to showcase the reproducibility of our work.
+Update: 2026/03/07: We have created a repository for the paper titled *From Exposure to Internalization: Dual-Stream Calibration for In-context Clinical Reasoning*, which has been submitted to the ==*TOIS 2026*==. In this repository, we offer the preprocessing scripts and algorithm files to showcase the reproducibility of our work.
 
 ![image-20260227175600145](img/frame.png)
 
